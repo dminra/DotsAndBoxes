@@ -1,0 +1,170 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+
+# Visual Studio Code
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+*.rider
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local History for Visual Studio
+.localhistory/
+
+# IntelliJ based IDEs
+out/
+
+# Gradle cache directory
+.gradle
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nupkg.metadata
+*.nuspec
+.nuget/
+
+# NuGet Symbol Packages
+*.snupkg
+
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it's better to use NuGet Package Restore
+# !**/packages/
+
+# MSBuild Binary and Structured Log files
+*.binlog
+
+# VisualStudioCode
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Rider
+.idea/
+*.sln.iml
+
+# Generated files
+Generated/
+GeneratedFiles/
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# FxCop results
+FxCopResults.xml
+
+# Code Coverage results
+OpenCover/
+
+# Local test runs
+LocalTestRun.testrunconfig
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
+
+# Build folder
+/build/
+
+# Backup & restore
+*.bak
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Cake - Uncomment if you are using it
+# tools/**
+# !tools/packages.config
+
+# Tabs Studio
+*.tss
+
+# Telerik's JustMock configuration file
+*.jmconfig
+
+# BizTalk build output
+*.btp.cs
+*.btm.cs
+*.odx.cs
+*.xsd.cs
+
+# OpenCover UI analysis results
+OpenCoverUI/
+
+# LaunchSettings for IIS Express
+Properties/launchSettings.json
+
+# FSharp build output
+bin/
+obj/
+
+# Fody - auto-generated files
+FodyWeavers.xsd
+
+# VS Code Extensions
+.vscode/extensions/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+
+# IDE settings
+.editorconfig
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Package manager lock files (optional - uncomment if you want to ignore these)
+# yarn.lock
+# package-lock.json
+
+# Rider dictionary
+.idea/dictionaries/
